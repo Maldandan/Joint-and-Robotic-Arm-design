@@ -1,2 +1,2 @@
 # Leg-Joint-and-Robotic-Arm-design
-Robot leg joint and robotic arm design and studies in an engineering approach 
+Find the file and detailed study and explanations inside each folder
