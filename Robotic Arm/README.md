@@ -19,7 +19,8 @@ To determine how to reach an end point, multiple functions with multiple variabl
 
 To calculate an end point of the 2 Joints in 2D or in one plane, we can use 2 equations with 2 variables! 
 
-![forward kinematics](https://user-images.githubusercontent.com/109004035/181237410-2257762d-2f65-49e8-85aa-daf129e8a1ff.jpg)
+![forward kinematics](https://user-images.githubusercontent.com/109004035/181238530-afee6ff9-9f99-437f-b7eb-2d1ad177cdad.jpg)
+
 
 it's easy to determine the X and Y components of the end point considering it a vector !
 after that, we try to reach to these values using Trigonometric concepts and considering each link length.
