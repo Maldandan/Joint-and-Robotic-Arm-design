@@ -28,7 +28,8 @@ To determine how to reach an end point, multiple functions with multiple variabl
 
 To calculate an end point of the 2 Joints in 2D or in one plane, we can use 2 equations with 2 variables! 
 
-![forward kinematics](https://user-images.githubusercontent.com/109004035/181238530-afee6ff9-9f99-437f-b7eb-2d1ad177cdad.jpg)
+![forward kinematics](https://user-images.githubusercontent.com/109004035/181239925-db7eba40-08d3-4720-9996-d01918c295c0.jpg)
+
 
 
 it's easy to determine the X and Y components of the end point considering it a vector !
