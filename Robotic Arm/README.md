@@ -1,5 +1,14 @@
 # Robotic Arm
 
+## Design and Simulation
+
+Designing the robot arm, Cinema4D was used and Null Function was also used for simulation purposes.
+In each joint connecting the different parts, bearing was install to minimize friction and allow smoother motions.
+
+![robot arm 1](https://user-images.githubusercontent.com/109004035/181239615-804b4b48-1ad0-4c9e-92f9-39436f083fd9.jpg)
+![robot arm 2](https://user-images.githubusercontent.com/109004035/181239623-d8762b79-4396-4f19-8cb0-6b993ed896bd.jpg)
+
+
 ### Degrees of freedom
 
 Degrees of freedom are the maximum number of logically independent, or potentially different, values in the sample of data. When discussing various types of statistical hypothesis testing, degrees of freedom are frequently brought up.
